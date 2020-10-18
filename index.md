@@ -41,7 +41,7 @@
   <head>
     <meta charset="utf-8" />
     <title>Homepage - Styles Conference</title>
-    <link rel="icon" type="image/gif/png" href="Assets/Images/ProfilePicture.png">
+    <link rel="icon" type="image/gif/png" href="ProfilePicture.png">
   </head>
 
   <body style="text-align: center">
